@@ -10,6 +10,8 @@ module.exports = {
       { hid: 'description', name: 'description', content: 'A portfolio website' }
     ],
     link: [
+      { rel: 'stylesheet', href: 'https://cdnjs.cloudflare.com/ajax/libs/bulma/0.6.0/css/bulma.min.css' },
+      { rel: 'stylesheet', href: 'https://fonts.googleapis.com/css?family=Source+Code+Pro:400,700' },
       { rel: 'icon', type: 'image/x-icon', href: '/favicon.ico' }
     ]
   },
