@@ -1,6 +1,20 @@
 # portfolio
 
-> A portfolio website
+A portfolio website
+
+## Getting Started
+
+Clone the project repository by running the command below if you use SSH
+
+```bash
+git clone git@github.com:ammezie/demo-portfolio.git
+```
+
+If you use https, use this instead
+
+```bash
+git clone https://github.com/ammezie/demo-portfolio.git
+```
 
 ## Build Setup
 
