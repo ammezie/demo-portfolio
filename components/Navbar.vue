@@ -13,10 +13,10 @@
 
       <div class="navbar-menu">
         <div class="navbar-end">
-          <a class="navbar-item" href="/">Home</a>
-          <a class="navbar-item" href="/about">About</a>
-          <a class="navbar-item" href="/projects">Projects</a>
-          <a class="navbar-item" href="/contact">Contact</a>
+          <nuxt-link class="navbar-item" to="/">Home</nuxt-link>
+          <nuxt-link class="navbar-item" to="/about">About</nuxt-link>
+          <nuxt-link class="navbar-item" to="/projects">Projects</nuxt-link>
+          <nuxt-link class="navbar-item" to="/contact">Contact</nuxt-link>
         </div>
       </div>
     </nav>
